@@ -36,4 +36,7 @@ This is a Learning based project on React.js. This react app is built using the 
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Website Preview : <a href="https://food-villa-react-app.netlify.app/" target="_blank">Food-Villa-react-app</a>
+- Live Website Preview : <a href="" target="_blank">Food-Villa-react-app</a>
+
+
+### Made With love by <h1>Aditya Sharma</h1>
